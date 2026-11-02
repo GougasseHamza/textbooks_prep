@@ -127,6 +127,8 @@ TPs and quiz, in `information-security/tps/`: `TP1_Clickjacking.pdf`, `TP2_State
 
 Quiz refresher, in `information-security/quizzes/`: `Quiz_Refresher_Chapter_2_Questions.pdf` (10 p) + `Quiz_Refresher_Chapter_2_Answers.pdf` (8 p): 24 recall questions, 8 statement sets, 6 exam-style problems with new hosts and cookies (the attachment rule on seven requests, parties and origins, two trackers' logs with and without third-party cookies, reading a respawning experiment, writing a cookie sync, framing the portal), and a Round D of 17 questions written exactly like Quiz 1 (scenario, four boxes, select every correct answer; Set-Cookie lines, HTTP exchanges, a respawning table, and a design challenge with a drawing box), every box justified in the answer sheet.
 
+Mock exams, in `information-security/mocks/`: `InfoSec_Mock1.pdf` through `InfoSec_Mock5.pdf` (five full mock midterms, questions with solutions).
+
 ## Embedded Systems (M233)
 | File | Pages |
 |---|---|
