@@ -66,6 +66,7 @@ Midterm prep, in `advanced-data-management/midterm-prep/`: `Mock_Midterm_Exam.pd
 | `operations-research/05_Simplex_Tableau_and_Sensitivity_Analysis.pdf` (self-contained: every result proved, including those from earlier chapters) | 22 |
 | `operations-research/How_to_Write_a_Dual.pdf` (methodology guide: the sign rules and why) | 6 |
 | `operations-research/How_to_Manipulate_Vectors_Indices_and_Matrices.pdf` (methods guide: coordinates, x_B and x_N, products, inverses, inequalities, the five proof moves) | 8 |
+| `operations-research/How_the_Professor_Formalizes_DP.pdf` (methodology guide: El Mehdi Saad's own dynamic-programming notation and formalism, not DP mechanics -- state/decision/transition/cost, the three interchangeable Bellman forms (min-cost, max-reward, feasibility-OR), the principle of optimality by exchange argument, the mandatory table-before-recurrence template, three of his own exercises worked in full-credit format) | 6 |
 
 Problem sets and solutions, in `operations-research/problem-sets/`:
 `Problem_Set_1.pdf` + `Problem_Set_1_Solutions.pdf`,
@@ -136,6 +137,7 @@ Quiz refreshers, in `machine-learning/quizzes/`, each as a questions file and a 
 | `information-security/03_Stateless_Tracking_and_Browser_Defences.pdf` | 12 |
 | `information-security/04_Symmetric_Cryptography.pdf` (rewritten 2026-10-26 in the textbook format of the compilers and data volumes: concept-order prose, a diagram and a hand-worked example per mechanism (Vigenere group attack, Feistel, DES round and key schedule, AES state and MixColumns, ECB/CBC/CTR, DH), an Anatomy table per algorithm saying what each part does and what breaks if it is removed, a checklist for custom-cipher exam problems, TP companion, common mistakes, classic problems) | 19 |
 | `information-security/05_Public_Key_Cryptography_Integrity_and_Trust.pdf` (rewritten 2026-10-26, same format: RSA from the arithmetic up with the slide and TP numbers, hybrid encryption, hashes and the birthday bound, passwords, MAC vs signature, certificates and PKI, steganography; Anatomy tables for RSA, hashes/MACs/signatures and PKI; OpenSSL Missions 1 and 3 companion) | 14 |
+| `information-security/06_User_Authentication_and_Access_Control.pdf` (IAAA, DAC and the UNIX permission bits, MAC with Bell-LaPadula versus Biba, RBAC, ABAC, Anatomy tables for password attacks and MFA factors, a lab companion with the access-control challenge answers, classic problems) | 15 |
 | `information-security/Information_Security_Go_Deeper_Guide.pdf` (earlier slide-recap companion: Quiz 1 solved question by question, TP takeaways) | 39 |
 | `information-security/Information_Security_Course_Summary.pdf` (the five chapters on two pages: the tracking rules and browser defences, symmetric and public-key mechanisms, the numbers that get asked, and the traps each chapter hides) | 2 |
 
